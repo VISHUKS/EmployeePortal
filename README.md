@@ -113,19 +113,6 @@ Now open your browser and go to:
 http://localhost:5000
 ```
 
----
-
-## 📸 Screens (Optional)
-
-* Employee List Page
-* Create Employee Form
-* Update Employee Page
-* Details View
-
-*(You can add screenshots here later)*
-
----
-
 ## 🧩 Key Concepts Used
 
 * MVC Architecture (Model-View-Controller)
